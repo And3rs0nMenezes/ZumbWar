@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Futuristic Shotgun Single Shot.wav-9949d78bd686a95f1ab59e280c9e17be.sample"
+
+[deps]
+
+source_file="res://sons/Futuristic Shotgun Single Shot.wav"
+dest_files=[ "res://.import/Futuristic Shotgun Single Shot.wav-9949d78bd686a95f1ab59e280c9e17be.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
